@@ -4,7 +4,7 @@ Build a SaaS: Web3 ERC20 Token Generator Tool Dapp With NextJs 13, React, Solidi
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2023/08/create-erc20-token-online-generator.jpg)
+![alt text](https://iili.io/JXFg5CX.png)
 
 ## Instruction
 
